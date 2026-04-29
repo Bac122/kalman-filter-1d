@@ -2,6 +2,9 @@
 1D Kalman filter implemented from scratch in Python with real-time visualization.
 
 
+![Kalman Filter Output](kalman_output.png)
+
+
 ## How to Run
 Install dependencies:
 pip install numpy matplotlib
